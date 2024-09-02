@@ -35,6 +35,7 @@ https://github.com/SPpawar027
 
 [![LinkedIn](www.linkedin.com/in/sagar-pawar-844781250)
 [![Twitter](https://x.com/previous_y)
+[![SPpawar027's GitHub | Languages Over Time](https://stats.quira.sh/SPpawar027/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=SPpawar027)
 
 
 
