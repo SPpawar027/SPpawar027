@@ -21,7 +21,8 @@ https://github.com/SPpawar027
 - Java
 
 ### Tools & Technologies
-- [html]:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DHTML&psig=AOvVaw1ofZUSsSGcpM8dIwwTzATR&ust=1725362900611000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCm_-eTpIgDFQAAAAAdAAAAABAI
+-![HTML](https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn=w240-h480-rw) 
+
 - Next JS
 
 ### Projects
