@@ -21,9 +21,10 @@ https://github.com/SPpawar027
 - Java
 
 ### Tools & Technologies
--![HTML]<img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="Skill Name" width="50" height="50"> 
+<img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="Skill Name" width="50" height="50"> 
 
-- Next JS
+<img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="Skill Name" width="50" height="50">
+
 
 ### Projects
 - [Project 1](Link to Project)
@@ -37,7 +38,9 @@ https://github.com/SPpawar027
 ## 📫 Connect with Me
 
 www.linkedin.com/in/sagar-pawar-844781250
+
 https://x.com/previous_y
+
 [![SPpawar027's GitHub | Languages Over Time](https://stats.quira.sh/SPpawar027/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=SPpawar027)
 
 
