@@ -21,7 +21,7 @@ https://github.com/SPpawar027
 - Java
 
 ### Tools & Technologies
--![HTML](https://play-lh.googleusercontent.com/RslBy1o2NEBYUdRjQtUqLbN-ZM2hpks1mHPMiHMrpAuLqxeBPcFSAjo65nQHbTA53YYn=w240-h480-rw) 
+-![HTML]<img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="Skill Name" width="50" height="50"> 
 
 - Next JS
 
