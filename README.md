@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**SPpawar027/SPpawar027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Sagar  👋
 
-Here are some ideas to get you started:
+I'm a Frontend Developer passionate about Building functional website . I enjoy learning new tools/skills and working on React JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Redux
+- 💬 Ask me about Frontend
+- 📫 How to reach me: LinkedIn : www.linkedin.com/in/sagar-pawar-844781250
+- ⚡ Fun fact: 
+
+## 📊 GitHub Stats
+
+https://github.com/SPpawar027
+
+## 🛠️ My Favorite Tools
+
+### Programming Languages
+- JavaScript
+- Java
+
+### Tools & Technologies
+- React JS
+- Next JS
+
+### Projects
+- [Project 1](Link to Project)
+- [Project 2](Link to Project)
+
+## 📝 Blog & Writing
+
+- [Blog 1](Link to Blog)
+- [Blog 2](Link to Blog)
+
+## 📫 Connect with Me
+
+[![LinkedIn](www.linkedin.com/in/sagar-pawar-844781250)
+[![Twitter](https://x.com/previous_y)
+
+
+
+
