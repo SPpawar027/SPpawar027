@@ -27,8 +27,8 @@ https://github.com/SPpawar027
 
 
 ### Projects
-- [Project 1](Link to Project)
-- [Project 2](Link to Project)
+- [Project 1]  https://focus-on-today-one.vercel.app/
+- [Project 2]  
 
 ## 📝 Blog & Writing
 
