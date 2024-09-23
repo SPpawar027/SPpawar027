@@ -28,7 +28,7 @@ https://github.com/SPpawar027
 
 ### Projects
 - [Project 1]  https://focus-on-today-one.vercel.app/
-- [Project 2]  
+- [Project 2]  https://countries-project-using-js.vercel.app/
 
 ## 📝 Blog & Writing
 
