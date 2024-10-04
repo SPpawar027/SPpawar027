@@ -44,7 +44,7 @@ https://github.com/SPpawar027
 ### Projects
 - [Project 1]  https://e-bharat-ecommerse.vercel.app/
 - [Project 2]  https://countries-project-using-js.vercel.app/
-- [Project 3]  verhttps://focus-on-today-one.vercel.app/
+- [Project 3]  https://focus-on-today-one.vercel.app/
 
 ## 📝 Blog & Writing
 
