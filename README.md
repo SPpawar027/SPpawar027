@@ -30,11 +30,11 @@ https://github.com/SPpawar027
 <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="Skill Name" width="70" height="70"> 
 
 <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="Skill Name" width="70" height="70">
-<img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Skill Name" width="70" height="70">
-  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="Skill Name" width="70" height="70">
+<img src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" alt="Skill Name" width="70" height="80">
+  <img src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Logo.png" alt="Skill Name" width="70" height="80">
   <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="Skill Name" width="70" height="70">
-   <img src="https://banner2.cleanpng.com/20180511/zie/avcispo5e.webp" alt="Skill Name" width="70" height="70">
-    <img src="https://banner2.cleanpng.com/20180711/iqy/aawpwnuou.webp" alt="Skill Name" width="70" height="70">
+   <img src="https://banner2.cleanpng.com/20180511/zie/avcispo5e.webp" alt="Skill Name" width="70" height="80">
+    <img src="https://banner2.cleanpng.com/20180711/iqy/aawpwnuou.webp" alt="Skill Name" width="70" height="80">
   
 </div>
 
