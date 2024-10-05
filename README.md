@@ -49,7 +49,7 @@ https://github.com/SPpawar027
 ## 📝 Blog & Writing
 
 - [Blog 1](Link to Blog)
-- [Blog 2](Link to Blog)
+
 
 ## 📫 Connect with Me
 
