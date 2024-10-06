@@ -9,6 +9,7 @@ I'm a Frontend Developer passionate about Building functional website . I enjoy 
 - ⚡ Fun fact: 
 
 ## 📊 GitHub Stats
+https://github-readme-stats.vercel.app/api?username=macropower&include_all_commits=true
 
 https://github.com/SPpawar027
 
@@ -48,7 +49,7 @@ https://github.com/SPpawar027
 
 ## 📝 Blog & Writing
 
-- [Blog 1](Link to Blog)
+
 
 
 ## 📫 Connect with Me
